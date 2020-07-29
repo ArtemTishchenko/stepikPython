@@ -1,0 +1,8 @@
+https://developer.android.com/develop/quality-guidelines/core-app-quality.html
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VeauWrhF-go" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> тестовый вариант ютубовского видео
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FbHFj_vXqnU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> первое видео SBDC Tech
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sDCLz4isphs#t=06s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> второе видео
