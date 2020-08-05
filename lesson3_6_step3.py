@@ -3,8 +3,6 @@ from selenium import webdriver
 import time
 import math
 
-
-
 @pytest.fixture(scope="function")
 def browser():
     print("\nstart browser for test..")
